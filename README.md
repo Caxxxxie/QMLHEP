@@ -4,11 +4,14 @@ This project explores the application of Quantum and Classical Machine Learning 
 Tasks are according to the requirement of the pretest for QMLHEP Project of Google Summer of Code
 
 ## Project Structure
-.
-├── gnn_training_history.png       # Placeholder for training history visualization (if applicable)
-├── qg_gnn_model.pt                # Pre-trained model file (if applicable)
-├── QIS_EXAM_200Events.npz         # Dataset used for training and testing
-├── task1.ipynb                    # Notebook for Task 1
-├── task2.ipynb                    # Notebook for Task 2
-├── task3.ipynb                    # Notebook for Task 3
-├── task4.ipynb                    # Notebook for Task 4
+
+├── task1.ipynb                  # Notebook for Task 1
+├── task2.ipynb                  # Notebook for Task 2
+├── task3.ipynb                  # Notebook for Task 3
+├── task4.ipynb                  # Notebook for Task 4
+├── task5.ipynb                  # Notebook for Task 5
+├── task6.ipynb                  # Notebook for Task 6
+├── task7.ipynb                  # Notebook for Task 7
+├── task8.ipynb                  # Notebook for Task 8
+├── task9.ipynb                  # Notebook for Task 9
+├── task10.ipynb                 # Notebook for Task 10
