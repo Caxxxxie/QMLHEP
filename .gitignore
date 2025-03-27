@@ -2,3 +2,5 @@ QG_classification/*.npz
 *.npz
 gnn_training_history.png
 qs_gnn_model.pt
+*.pth
+*.hdf5
